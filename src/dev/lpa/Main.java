@@ -120,6 +120,11 @@ public class Main {
             previousTown = town;
         }
         System.out.println("Trip ends at " + list.getLast());
+
+
+
     }
+
+
 
 }
